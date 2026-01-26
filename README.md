@@ -55,7 +55,7 @@
 
 * 💬 **Ask me about**: LAMMPS 脚本编写、超算任务调度、MacBook 上的科研效率工具。
 * 📫 **Email**: [jxu1219@outlook.com](mailto:jxu1219@outlook.com)
-* ⚡ **Fun fact**: 从皮划艇运动员到高分子模拟研究员，我不怕为了任何目标重新划桨起航。
+* ⚡ **Fun fact**: 从皮划艇运动员到高分子模拟研究员。
 
 ---
 
