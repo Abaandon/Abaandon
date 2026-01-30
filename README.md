@@ -16,7 +16,7 @@
 
 ### 💻 科研篇 | Research & Tech
 
-我是 **Abaandon**，一名专注于高分子物理与材料模拟的科研人员。我的工作致力于通过计算手段解决高频高速材料的实际问题。
+我是 **Abaandon**，一名专注于**高分子物理**、**凝聚态物理**与**材料模拟**的科研人员。我的工作致力于通过计算手段解决高频高速材料的实际问题。
 
 #### 🔬 科研方向 (Research Focus)
 > *Searching for order in the chaos of polymer chains.*
@@ -30,6 +30,7 @@
 #### 🛠️ 技术栈 (Tech Stack)
 <p align="left">
   <img src="https://img.shields.io/badge/LAMMPS-BLUE?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gaussian-0047AB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/OVITO-ORANGE?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/VMD-005F9E?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -44,10 +45,16 @@
 科研不仅是脑力的角逐，更是体力的考验。
 
 * 🛶 **Kayaking (Professional)**: **前区皮划艇队成员 (2013-2018)**。
-    * *五年的专业训练教会了我如何在逆流中保持定力，这也深深影响了我的科研态度。*
 * 🏐 **Ball Games**: **排球** & **网球** 爱好者。
-    * *当代码跑不通或者模拟报错的时候，你通常能在球场找到我。*
 * 🍳 **Cooking**: 喜欢研究美食，尤其是为家人准备温暖的早餐。
+
+---
+
+### 🗣️ 语言 | Languages
+
+* **Cantonese (粤语)**: Native
+* **Mandarin (普通话)**: Native
+* **English**: Professional Working Proficiency
 
 ---
 
@@ -55,7 +62,6 @@
 
 * 💬 **Ask me about**: LAMMPS 脚本编写、超算任务调度、MacBook 上的科研效率工具。
 * 📫 **Email**: [jxu1219@outlook.com](mailto:jxu1219@outlook.com)
-* ⚡ **Fun fact**: 从皮划艇运动员到高分子模拟研究员。
 
 ---
 
